@@ -1,0 +1,2 @@
+.todoList{display:flex;flex-wrap:wrap;justify-content:center;list-style:none;grid-gap:40px;gap:40px}.todoList__item{display:block;width:200px;padding:20px;background-color:#3dacdf;border-radius:20px;text-align:center}.todoStatus{color:red}.completed{color:green}.email{font-size:16px}
+/*# sourceMappingURL=main.f336c049.chunk.css.map */
